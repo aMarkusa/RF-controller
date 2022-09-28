@@ -1,4 +1,6 @@
 # RF-controller
+<img src="https://user-images.githubusercontent.com/83133831/192849107-02060bf8-b10f-4f93-b036-a338e187cc33.jpg" width="225" height="300">
+
 ## Description
 This was apart of a project course during my freshman year. My teams project was a RC-car, and my area of responsibility was the controller. The controller had include a joystick and programmable buttons. Furthermore, it had to display the speed of the car, be handheld, and battery-powered. 
 
