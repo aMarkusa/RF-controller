@@ -16,7 +16,7 @@ The display displayed the speed of the car, measured by a sensor on the car. It 
 The PCB was designed in EasyEDA and ordered from JLCPCB. Desing files in project repository.
 
 ### BOM
-BOM is found in the [design files](https://github.com/aMarkusa/RF-controller/tree/main/Design%20files) repository. 
+BOM is found in the [design files](https://github.com/aMarkusa/RF-controller/tree/main/Design%20files) directory. 
 
 ## Reflections
 As this was a part of a course project it developed my ability to work in a team. Even though a lot of the development was done individually, the controller had to be compatible with the car, and therefore, the team had to actively discuss the design choices.<br />
